@@ -764,4 +764,4 @@ async def on_message(message):
     #    except Exception as error:
     #        await client.send_message(message.channel, "Error 7: [{error}]".format(error=error))
 
-client.run('NDY2Njk5ODg5NjU3NjQzMDA4.DlNqLA.Tj8q8OgoqVyC7tfX5ToaD8OcHcI')
+client.run('')
